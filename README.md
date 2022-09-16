@@ -1,7 +1,7 @@
 # Evaluación inicial
 1. ¿Que es una página web?
 
- Una pagina web es un documento digital complejo, que puede integrar y/o contener texto, sonido, vídeo...
+Una pagina web es un documento digital complejo, que puede integrar y/o contener texto, sonido, vídeo...
 
 2. ¿Qué es un sitio web?
 
