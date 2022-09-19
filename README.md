@@ -51,4 +51,4 @@ elementos HTML deberían ser mostrados.
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
-
+![imagen ej 8](https://github.com/MarcosYelamos/SMX2-M8UF1A2/blob/main/Imagen%20enunciado%208.PNG) 
